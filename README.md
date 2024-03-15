@@ -1,6 +1,7 @@
 # Summary
 ipynb file has comments on what has been added. 
-- Highest accuracy: 99.3%
+- Highest accuracy: 99.48%
+- Last accuracy: 99.34%
 - Parameters: 16k
 
 
@@ -46,3 +47,5 @@ ipynb file has comments on what has been added.
     - 99.2%
 - Added back in
     - 99.3%
+- Move dropout to before BN
+    - 99.4% (4 of 19 epochs)    
